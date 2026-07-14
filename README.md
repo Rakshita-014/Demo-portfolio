@@ -19,7 +19,7 @@ This portfolio showcases my skills, projects, and passion for web design and fro
 - Contact Form
 
 ## Live Demo
-link-https://rakshitaporttfolio.netlify.app/
+watch here-https://rakshitaporttfolio.netlify.app/
 
 ## 👩‍💻 Author
 
